@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.automationProfile.osx": {
+
+    },
+    "files.associations": {
+        "iostream": "cpp",
+        "ostream": "cpp"
+    },
+    "workbench.editor.restoreViewState": false
+}
