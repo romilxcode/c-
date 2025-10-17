@@ -1,3 +1,6 @@
+// Notes:
+// https://drive.google.com/drive/folders/1tPWHEUkwms2wQ0pl1-ujyegR-cQYGSOv
+
 // Created by romil on 10/17/2025.
 // //Pointers: Special variables that store address of other variables
 
